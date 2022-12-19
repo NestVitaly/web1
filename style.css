@@ -1,0 +1,59 @@
+html {
+    min-height: 100%;
+    background: -webkit-linear-gradient(180deg, #d5e2d0, #76a291, #c16610);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(180deg, #d5e2d0, #76a291, #c16610);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+header {
+    border: 6px solid lightblue;
+}
+
+.header {
+    padding: 25px;
+    background-image: url(https://mota.ru/upload/resize/2560/1600/upload/wallpapers/source/2016/09/23/22/01/49876/mota.ru_2016092337-0ad.jpg);
+}
+
+.run_str {
+    margin: -50px -20px 0 -20px;
+    padding-top: 15px;
+}
+
+marquee {
+    font-size: 35px;
+    color: #14223f;
+}
+
+marquee, .fantasy {
+    font-family: 'Lobster', cursive;
+}
+
+.fantasy {
+    font-size: 65px;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;  
+}
+
+.beginning, .epic {
+    font-family: 'Philosopher', cursive;
+    font-size: 25px;
+}
+
+footer {
+    padding: 30px 0;
+    margin: 0 -8px -8px;
+    background-color: #a49ba2;
+    text-align: center;
+    border: 2px solid lightcyan;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
